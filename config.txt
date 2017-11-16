@@ -1,4 +1,5 @@
 wind_speed_ms
 wind_direction_deg
-sonic_temp_degC
+temp_sonic_degc
 air_temp_degc
+air_temp_ventilated_degc

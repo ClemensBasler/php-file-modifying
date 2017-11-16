@@ -1,5 +1,12 @@
 <?php
+/**
+ * @Entity @Table(name="weather_data")
+ **/
 
-class Test
+class WeatherData
 {
+  /**
+  * @Id @GeneratedValue @Column(type="integer")
+  * @var int
+  **/
   protected $id;
